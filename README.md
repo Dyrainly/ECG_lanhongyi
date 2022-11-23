@@ -17,11 +17,11 @@ jingxi-situation.py是处理静息状态心电的代码
 
 代码：https://www.kaggle.com/code/hongyilan/jingxi-situation
 
-first5min-situation.py是处理静息状态心电的代码
+first5min-situation.py是处理运动后状态心电的代码
 
 代码：https://www.kaggle.com/code/hongyilan/first5min-situation
 
-second5min-situation.py是处理静息状态心电的代码
+second5min-situation.py是处理运动后恢复至静息状态心电的代码
 
 代码：https://www.kaggle.com/code/hongyilan/second5min-situation
 
